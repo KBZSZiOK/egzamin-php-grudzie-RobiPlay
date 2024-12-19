@@ -12,6 +12,7 @@ body {
 }
 #panel-lewy{
     width: 60%;
+    float:left;
 }
 #panel-prawy{
     font-size: 150%;
@@ -23,6 +24,7 @@ body {
     margin: auto;
     padding: 30px;
     text-align: center;
+    clear: both;
 }
 
 #stopka{
